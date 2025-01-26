@@ -18,15 +18,15 @@ A real-time network traffic monitoring system that provides detailed statistics 
 ## Screenshots
 
 ### Main User Interface
-![Main User Interface](images/user%20interface.png)
+![Main User Interface](Images/user%20interface.png)
 *The main dashboard showing real-time network statistics and monitoring controls.*
 
 ### Download Speed Monitoring
-![Download Speed Monitoring](images/downloading%20speed%20monitor.png)
+![Download Speed Monitoring](Images/downloading%20speed%20monitor.png)
 *Real-time visualization of network download speed with interactive charts.*
 
 ### Upload Speed Monitoring
-![Upload Speed Monitoring](images/uploading%20speed%20monitor.png)
+![Upload Speed Monitoring](Images/uploading%20speed%20monitor.png)
 *Real-time visualization of network upload speed with interactive charts.*
 
 **Note:** The system is capable of monitoring both download and upload speeds simultaneously, providing comprehensive network traffic analysis in real-time.
